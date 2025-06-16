@@ -133,7 +133,7 @@ const styles = {
   },
   addButton: {
     padding: '10px 15px',
-    backgroundColor: '#4CAF50',
+    backgroundColor: 'red',
     color: 'white',
     border: 'none',
     borderRadius: '0 4px 4px 0',
